@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/beca-kodemia.git/precache-manifest.438826a33567dbd43c15a5f8ab39f0e2.js"
+  "/beca-kodemia/precache-manifest.14faf505140986e713460fd02ed8d5a3.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/beca-kodemia.git/index.html", {
+workbox.routing.registerNavigationRoute("/beca-kodemia/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

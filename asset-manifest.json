@@ -1,13 +1,13 @@
 {
-  "main.css": "/beca-kodemia.git/static/css/main.addf4f51.chunk.css",
-  "main.js": "/beca-kodemia.git/static/js/main.6ba07164.chunk.js",
-  "main.js.map": "/beca-kodemia.git/static/js/main.6ba07164.chunk.js.map",
-  "runtime~main.js": "/beca-kodemia.git/static/js/runtime~main.95087065.js",
-  "runtime~main.js.map": "/beca-kodemia.git/static/js/runtime~main.95087065.js.map",
-  "static/js/2.f213e47f.chunk.js": "/beca-kodemia.git/static/js/2.f213e47f.chunk.js",
-  "static/js/2.f213e47f.chunk.js.map": "/beca-kodemia.git/static/js/2.f213e47f.chunk.js.map",
-  "index.html": "/beca-kodemia.git/index.html",
-  "precache-manifest.438826a33567dbd43c15a5f8ab39f0e2.js": "/beca-kodemia.git/precache-manifest.438826a33567dbd43c15a5f8ab39f0e2.js",
-  "service-worker.js": "/beca-kodemia.git/service-worker.js",
-  "static/css/main.addf4f51.chunk.css.map": "/beca-kodemia.git/static/css/main.addf4f51.chunk.css.map"
+  "main.css": "/beca-kodemia/static/css/main.addf4f51.chunk.css",
+  "main.js": "/beca-kodemia/static/js/main.1287e01d.chunk.js",
+  "main.js.map": "/beca-kodemia/static/js/main.1287e01d.chunk.js.map",
+  "runtime~main.js": "/beca-kodemia/static/js/runtime~main.21a0257d.js",
+  "runtime~main.js.map": "/beca-kodemia/static/js/runtime~main.21a0257d.js.map",
+  "static/js/2.f213e47f.chunk.js": "/beca-kodemia/static/js/2.f213e47f.chunk.js",
+  "static/js/2.f213e47f.chunk.js.map": "/beca-kodemia/static/js/2.f213e47f.chunk.js.map",
+  "index.html": "/beca-kodemia/index.html",
+  "precache-manifest.14faf505140986e713460fd02ed8d5a3.js": "/beca-kodemia/precache-manifest.14faf505140986e713460fd02ed8d5a3.js",
+  "service-worker.js": "/beca-kodemia/service-worker.js",
+  "static/css/main.addf4f51.chunk.css.map": "/beca-kodemia/static/css/main.addf4f51.chunk.css.map"
 }
